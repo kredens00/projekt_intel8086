@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bDmH6E0UWSLD8YGFf9fXBhJkXN3OZSnU1EOLCHUnbRMkqNyWOxBgxa6SjzWMuQ28Y1yGgm3pvUoI/oSntoiBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil\\Desktop\\ProjektIntel8086_SzymonKotara\\ProjektIntel8086\\ProjektIntel8086.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
